@@ -3,7 +3,6 @@
 - 👯 I'm looking to collaborate with other developers
 - Fun Fact: When I am not coding, I love to spend my time playing games. League of Legends, Valorant, and Phasmophobia are a few of my favorite games.
 
-<br />
 
 ### Languages and Tools:
 
@@ -18,14 +17,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-
-### Connect with me:
-
-<!-- [<img align="left" alt="annatdinh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website](https://www.annatdinh.com/)
-[<img align="left" alt="annatdinh" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/anna-t-dinh/) -->
-
 
 <br />
 
