@@ -20,9 +20,7 @@
 
 <br />
 <br />
-
-### Github Stats
-  <img alt="AnnaTDinh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnnaTDinh&show_icons=true&hide_border=true" />
+[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=AnnaTDinh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
