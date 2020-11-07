@@ -1,7 +1,7 @@
 ## Hi there, I'm Anna and I'm a Software Engineer
 - 🌱 I'm currently learning Shopify
 - 👯 I'm looking to collaborate with other developers
-- Fun Fact: When I am not coding, I love to spend my time playing games. 
+- Fun Fact: When I am not coding, I love to spend my time playing games.
 
 
 ### Languages and Tools:
@@ -20,8 +20,13 @@
 
 <br />
 <br />
-[![Anna's github stats](https://github-readme-stats.vercel.app/api?username=AnnaTDinh)](https://github.com/anuraghazra/github-readme-stats)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img alt="AnnaTDinh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnnaTDinh&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **AnnaTDinh/AnnaTDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
