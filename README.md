@@ -21,12 +21,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+### Github Stats
   <img alt="AnnaTDinh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnnaTDinh&show_icons=true&hide_border=true" />
 
-</details>
 
 <!--
 **AnnaTDinh/AnnaTDinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
