@@ -22,7 +22,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: <h3>GitHub Stats</h3></summary>
 
   <img alt="AnnaTDinh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnnaTDinh&show_icons=true&hide_border=true" />
 
