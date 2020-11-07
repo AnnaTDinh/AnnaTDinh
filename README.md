@@ -1,7 +1,8 @@
 ## Hi there, I'm Anna and I'm a Software Engineer
-- 🌱 I'm currently learning Shopify
-- 👯 I'm looking to collaborate with other developers
-- Fun Fact: When I am not coding, I love to spend my time playing games.
+- 👩🏻 Who Am I? I am a full-stack web developer based in Los Angeles, California.
+- 📚 I'm currently learning Shopify.
+- 🎮 Fun Fact: When I am not coding, I love to spend my time playing games.
+- 💬 Ask me about my transition from Occupational Therapy to Web Development
 
 
 ### Languages and Tools:
