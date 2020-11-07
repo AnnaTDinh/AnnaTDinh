@@ -1,7 +1,7 @@
 ## Hi there, I'm Anna and I'm a Software Engineer
 - 🌱 I'm currently learning Shopify
 - 👯 I'm looking to collaborate with other developers
-- Fun Fact: When I am not coding, I love to spend my time playing games. League of Legends, Valorant, and Phasmophobia are a few of my favorite games.
+- Fun Fact: When I am not coding, I love to spend my time playing games. 
 
 
 ### Languages and Tools:
