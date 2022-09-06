@@ -1,6 +1,6 @@
 ## Hi there, I'm Anna and I'm a Software Engineer
 - 👩🏻 Who Am I? I am a full-stack web developer based in Irvine and Los Angeles, California.
-- ⚡  Fun Fact: When I am not coding, I love to spend my time reading books and exploring new hiking trails.
+- ⚡  Fun Fact: When I am not coding, I love to spend my time reading books, playing games, hanging out with family and friends, and exploring new hiking trails.
 - 💬 Ask me about my transition from Occupational Therapy to Web Development!
 
 
